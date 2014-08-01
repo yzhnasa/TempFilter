@@ -1,0 +1,4 @@
+testfile1, testfile2, testfile3: consecutive temperature values
+testfile4: missing data
+testfile5: erroneous data
+testfile6: missing data and errorneous data
